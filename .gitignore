@@ -28,3 +28,7 @@ bin/
 
 # Team PDFs (contain member names)
 res/*.pdf
+
+# IntelliJ
+.idea/
+*.iml
